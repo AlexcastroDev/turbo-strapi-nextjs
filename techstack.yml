@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/turbo-strapi-nextjs
 report_id: ef442878737d060251fa882e48efb420
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:22:35+00:00'
+timestamp: '2024-01-05T08:12:15+00:00'
 requested_by: Elvincth
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs
   detection_source: Repo Metadata
 - name: Next.js
   description: 'A small framework for server-rendered universal JavaScript apps '
@@ -50,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: elvincth
   last_updated_on: 2021-12-27 13:06:48.000000000 Z
@@ -76,6 +79,7 @@ tools:
   category: Data Stores
   sub_category: PostgreSQL as a Service
   image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: elvincth
   last_updated_on: 2021-12-27 08:18:06.000000000 Z
@@ -87,6 +91,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/apps/backend/package.json
   detection_source: apps/backend/package.json
   last_updated_by: elvincth
   last_updated_on: 2021-12-27 08:18:06.000000000 Z
@@ -113,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -123,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/apps/backend/.eslintrc
   detection_source: apps/backend/.eslintrc
   last_updated_by: elvincth
   last_updated_on: 2021-12-27 08:18:06.000000000 Z
@@ -134,6 +141,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -157,6 +165,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: elvincth
   last_updated_on: 2021-12-24 16:06:19.000000000 Z
@@ -168,6 +177,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/packages/ui/package.json
   detection_source: packages/ui/package.json
   last_updated_by: elvincth
   last_updated_on: 2021-12-24 16:06:19.000000000 Z
@@ -222,6 +232,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs/blob/main/apps/frontend/package.json
   detection_source: apps/frontend/package.json
   last_updated_by: elvincth
   last_updated_on: 2021-12-24 16:06:19.000000000 Z
