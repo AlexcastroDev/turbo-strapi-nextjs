@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/turbo-strapi-nextjs
 report_id: ef442878737d060251fa882e48efb420
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:12:15+00:00'
+timestamp: '2024-02-29T19:22:20+00:00'
 requested_by: Elvincth
 provider: github
 branch: main
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.3
   open_source: true
@@ -144,7 +144,7 @@ tools:
   detection_source_url: https://github.com/AlexcastroDev/turbo-strapi-nextjs
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
